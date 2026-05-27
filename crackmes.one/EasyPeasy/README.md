@@ -17,9 +17,9 @@ Create a new project and import the `.exe` file into Ghidra
 
 ![Ghidra import](https://github.com/user-attachments/assets/6d9c8aa2-aa82-41ea-9a98-a421beffa3a3)
 
-### 2. Run auto-analysis
+### 2. Run auto analysis
 
-Go to Analyze menu, and then click Auto Analyze, make sure all options are checked, then click
+Go to Analysis menu, and then click Auto Analyze, make sure all options are checked, then click
 Analyze.
 
 ![Auto Analyze menu](https://github.com/user-attachments/assets/047c8974-1fbd-4d85-a216-53e20fccce55)  
